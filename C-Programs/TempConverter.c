@@ -6,7 +6,7 @@ int main()
 {
 	int a;
 	float f;
-    float c;
+        float c;
 	printf("Type 1 to conver celcius to farenheit \n");
 	printf("Type 2 to convert farenheit to celcius \n");
 	printf("Enter your Choice ");
